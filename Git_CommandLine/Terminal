@@ -1,0 +1,8 @@
+Write the command to list all of the files in your directory, including the hidden files
+Suppose you are currently in your home directory.
+Write the commands necessary to go into your Documents, add a new file called hello.txt, and write “Hello there!” inside of it.
+Write the command necessary to find out what directory you are currently in.
+Suppose you are currently in a directory that contains two files called notes.txt and review.txt.
+Write the command in order to make a copy of notes.txt and name it notes2.txt. Then, write the command to view review.txt and then delete it.
+Suppose you’re in a directory that contains a file named queenLyrics.txt. Write the command necessary to search the file for “is this just fantasy”.
+Write the command necessary to create a new user with your name and then switch to it.
