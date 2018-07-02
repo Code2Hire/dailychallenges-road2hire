@@ -2,4 +2,4 @@ Write the command that tells you whether there have been any changes done to you
 Suppose you are currently in the master branch of your repository. Create a new branch called calculator and switch into it.
 Write the command needed to list all the branches in your current branch.
 Suppose there is a branch named clownNose in your current branch. Write the command necessary to merge clownNose with your current branch.
-Write the command to create a new repository named myRepo
+Write the command to create a new repository named myRepo.
