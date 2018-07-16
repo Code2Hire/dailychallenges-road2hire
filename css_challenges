@@ -1,0 +1,10 @@
+Using HTML and CSS create a box that combines transitions for: width, height, background-color, transform
+
+Create a basic page that include a header, 3 images and footer that stays on the bottom of the page but is not fixed.
+
+Using CSS animations, make an image of your choice travel across the screen and return
+
+Use Flexbox with the provided HTML to order the elements as followed: 2,1,4,3,5. Instead of: 1,2,3,4,5. You CAN'T change the HTML.
+
+Create a table of 4 of your favorite movies. The table should contain two rows. The first row should contain the title of the movie and the second row should contain a photo of the movie, and brief description of the movie's plot. Using what you learned about nesting in Sass, style the table and all of it's data.
+ The title of the movie should link to a site where someone can purchase the movie if they would like.
